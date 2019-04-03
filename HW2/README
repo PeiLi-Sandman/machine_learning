@@ -1,10 +1,8 @@
 
-<font size=5> 
-
-This is the description for HW2: https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw2.md
+<font size=5> This is the description for HW2: https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw2.md</font>
 
 I created five different architectures and use K-Fold validation to reevaluate the best model.
-</font>
+
 
 Overall, several key points can be concluded:
     * Deep network is better, but it requires much more training time.
