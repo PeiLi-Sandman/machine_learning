@@ -13,7 +13,6 @@ Overall, several key points can be concluded:
 Speficically, [HW2_jupyter.ipynb](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/HW2_jupyter.ipynb)
 contains all the five model and the K-Folder validation process on the best model. 
 
-[hw2.ipynb](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/hw2.ipynb) is just a simple copy of the established models on Colab
-[hw2 with k folder.ipynb] is also a copy only for K-Folder validation
+[hw2.ipynb](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/hw2.ipynb) is just a simple copy of the established models on Colab. [hw2 with k folder.ipynb](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/hw2_with_k_folder.ipynb)is also a copy only for K-Folder validation
 
 If you want to see the whole process of architecture selection and comparation. Please take a look at [HW2_jupyter.ipynb](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/HW2_jupyter.ipynb).
