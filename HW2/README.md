@@ -4,8 +4,8 @@ I created five different architectures and use K-Fold validation to reevaluate t
 
 
 Overall, several key points can be concluded:
-    * Deep network is better, but it requires much more training time.
-    * Drop Out layer is a solution for over-fitting problem
-    * Adam optimizer is better than SGD
-    * Data Augmentation has significant improvement for model's performance on validation dataset
-    * K-folder validation tends to have a better performance than the simple hold-out validation. 
+   * Deep network is better, but it requires much more training time.
+   * Drop Out layer is a solution for over-fitting problem
+   * Adam optimizer is better than SGD
+   * Data Augmentation has significant improvement for model's performance on validation dataset
+   * K-folder validation tends to have a better performance than the simple hold-out validation. 
