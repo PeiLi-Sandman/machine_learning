@@ -1,8 +1,10 @@
-<font size="+1">
+
+<font size=5> 
 
 This is the description for HW2: https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw2.md
 
 I created five different architectures and use K-Fold validation to reevaluate the best model.
+</font>
 
 Overall, several key points can be concluded:
     * Deep network is better, but it requires much more training time.
@@ -11,4 +13,3 @@ Overall, several key points can be concluded:
     * Data Augmentation has significant improvement for model's performance on validation dataset
     * K-folder validation tends to have a better performance than the simple hold-out validation. 
 
-</font>
