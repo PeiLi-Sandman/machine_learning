@@ -50,5 +50,5 @@ In total, I built five neural networks. Their achitectures are shown as below:
   
   The best accuracy for test dataset I obtained is 76.41%
   
-  In the end, I chose one model to apply K-Folder validation. The
+  In the end, I chose one model to apply K-Folder validation. The Performance is much better than simple cross-validation
   
