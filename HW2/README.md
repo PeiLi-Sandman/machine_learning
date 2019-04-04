@@ -17,7 +17,35 @@ contains all the five model and the K-Folder validation process on the best mode
 
 If you want to see the whole process of architecture selection and comparation. Please take a look at [HW2_jupyter.ipynb](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/HW2_jupyter.ipynb).
 
-In total, I built five neural networks.
+In total, I built five neural networks. Their achitectures are shown as below:
   * Model 1
   
   ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model1.PNG)
+  
+  Model 1 is a very simple neural network, which has a low accuracy. Moreover, it also has over-fitting problem.
+  
+  * Model 2
+  
+  ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model2.PNG)
+  
+  Model 2 adds more layers based on Model 1. In order to solve over-fitting problem, dropout layer is added.
+  
+  * Model 3
+  
+  ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model3.PNG)
+  
+  Model 3 uses different optimizer than Model 1 and Model 2. Specifically, Adam is used, the result is better than simple SGD.
+  
+  * Model 4
+  
+  ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model4.PNG)
+  
+  Model 4 uses data augmentation, which has a very good performance on validation dataset.
+  
+  * Model 5
+  
+  ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model5.PNG)
+  
+  Based on the above 4 models, I built a new model. Model 5 is deeper enough, has dropout layer, use Adam optimizer and data augmentation.
+  
+  
