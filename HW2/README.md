@@ -19,4 +19,5 @@ If you want to see the whole process of architecture selection and comparation. 
 
 In total, I built five neural networks.
   * Model 1
+  
   ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model1.PNG)
