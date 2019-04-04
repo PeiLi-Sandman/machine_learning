@@ -46,6 +46,9 @@ In total, I built five neural networks. Their achitectures are shown as below:
   
   ![](https://github.com/PeiLi-Sandman/machine_learning/blob/master/HW2/picture/model5.PNG)
   
-  Based on the above 4 models, I built a new model. Model 5 is deeper enough, has dropout layer, use Adam optimizer and data augmentation.
+  Based on the above 4 models, I built a new model. Model 5 is deeper enough, has dropout layer, use Adam optimizer and data augmentation. 
   
+  The best accuracy for test dataset I obtained is 76.41%
+  
+  In the end, I chose one model to apply K-Folder validation. The
   
