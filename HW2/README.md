@@ -1,4 +1,6 @@
-This is the description for HW2: https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw2.md
+This is the description for HW2: 
+
+https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw2.md
 
 I created five different architectures and use K-Fold validation to reevaluate the best model.
 
